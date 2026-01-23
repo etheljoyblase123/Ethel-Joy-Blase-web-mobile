@@ -1,0 +1,36 @@
+.header{
+    color:aqua;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30;
+    background-color: bisque;
+}
+.content {
+    color: peachpuff;
+    font-size: 50px;
+    background-color: peru;
+    text-align: center;
+    border: rgb(0, 255, 13) solid;
+    border-radius: 20px;
+    border-width: 10px;
+}
+.content:hover {
+    color:aqua;
+    background-color: palevioletred;
+}
+
+a:link {
+    color:plum;
+}
+
+a:visited {
+    color:aqua;
+}
+
+a:hover {
+    color:burlywood;
+}
+
+a:active{
+    color: powderblue;
+}
